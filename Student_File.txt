@@ -1,0 +1,55 @@
+
+23:31:20.459243400
+Date: 2023-06-24
+Student name: JJJ
+Student Faculty: JJJJJ
+Student Department: JJOJO
+Matric Number: BHU/21/04/05/0091
+Password: 12345678
+Serial Num: SJAJEKWOD
+
+10:46:02.542901200
+Date: 2023-06-25
+Student name: michael ojonugwa gabriel
+Student Faculty: health science
+Student Department: medical laboratory science
+Matric Number: BHU/20/01/08/0021
+Password: BONIFACEBEN123
+Serial Num: FFDJUYUYI,O
+
+15:21:54.070840700
+Date: 2023-06-25
+Student name: YASHIM KELVIN JACOB
+Student Faculty: FOST
+Student Department: COMPUTER SCIENCE
+Matric Number: BHU/21/04/05/0081
+Password: Flash2024
+Serial Num: AQWER123KLPOU
+
+22:27:01.154743
+Date: 2023-06-25
+Student name: SAMUEL DAVID
+Student Faculty: FOST
+Student Department: INFO TECH
+Matric Number: BHU/21/04/05/0021
+Password: 12345678
+Serial Num: QWERTY
+
+15:07:22.194708900
+Date: 2023-06-26
+Student name: jhgtrfdewa
+Student Faculty: Faculty
+Student Department: Department
+Matric Number: Matric Num
+Password: Password
+Serial Num: Serial Number
+
+08:47:49.720307200
+Date: 2023-06-27
+Student name: Full Name
+Student Faculty: Faculty
+Student Department: Department
+Matric Number: Matric Num
+Password: Password
+Serial Num: Serial Number
+
